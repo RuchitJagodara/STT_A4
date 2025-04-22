@@ -1,0 +1,16 @@
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\bin\Debug\net8.0-windows\lab_12_b.exe
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\bin\Debug\net8.0-windows\lab_12_b.deps.json
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\bin\Debug\net8.0-windows\lab_12_b.runtimeconfig.json
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\bin\Debug\net8.0-windows\lab_12_b.dll
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\bin\Debug\net8.0-windows\lab_12_b.pdb
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\STT_Lab12_FormApp.Form1.resources
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.csproj.GenerateResource.cache
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.AssemblyInfoInputs.cache
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.AssemblyInfo.cs
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.dll
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\refint\lab_12_b.dll
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.pdb
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\lab_12_b.genruntimeconfig.cache
+C:\Users\ruchi\source\repos\lab_12_b\STT Lab12 FormApp\obj\Debug\net8.0-windows\ref\lab_12_b.dll
